@@ -1,0 +1,37 @@
+{
+    "Jogador": {
+        "Moeda": 655,
+        "Madeira": 120,
+        "Pedra": 120,
+        "Ferro": 165,
+        "Areia": 175,
+        "Corujas": [
+            "albus",
+            "merlin"
+        ],
+        "Roupas": [
+            "blueClothes",
+            "orangeClothes",
+            "purpleClothes",
+            "redClothes"
+        ],
+        "Construcoes": [
+            "baron3",
+            "librarian",
+            "peasantFemale4",
+            "peasantFemale6",
+            "peasantMale4",
+            "peasantMale6",
+            "peasantMale8"
+        ],
+        "RoupaAtual": "blueClothes",
+        "CompletouTutorial": true,
+        "Aluno": {
+            "IdUsuario": "",
+            "Usuario": {
+                "Nome": ""
+            }
+        }
+    },
+    "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJJZCI6ImQzZmE4Yzc0LTFkOGQtNDZhZi05NzgzLTRhY2FlNzJjZDA1NyIsImlhdCI6MTYwNzUyNTc1NSwiZXhwIjoxNjA3NjEyMTU1fQ.3ahUeWwEi1b5evlttkkMpMt7I7V9jQJ2gD9F4Mxm6Jg"
+}

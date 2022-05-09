@@ -1,0 +1,273 @@
+{
+    "Roupas": [
+        {
+            "Id": "blueClothes",
+            "Descricao": "Roupa de cor azul",
+            "Custo": 10
+        },
+        {
+            "Id": "orangeClothes",
+            "Descricao": "Roupa de cor laranja",
+            "Custo": 40
+        },
+        {
+            "Id": "purpleClothes",
+            "Descricao": "Roupa de cor roxa",
+            "Custo": 20
+        },
+        {
+            "Id": "redClothes",
+            "Descricao": "Roupa de cor vermelha",
+            "Custo": 30
+        }
+    ],
+    "Corujas": [
+        {
+            "Id": "albus",
+            "Descricao": "Absorve um dano causado pelos inimigos.",
+            "Custo": 20
+        },
+        {
+            "Id": "glinda",
+            "Descricao": "Aumenta os materiais recebidos das batalhas.",
+            "Custo": 30
+        },
+        {
+            "Id": "merlin",
+            "Descricao": "Recupera uma vida perdida.",
+            "Custo": 10
+        },
+        {
+            "Id": "morgana",
+            "Descricao": "Permite que uma das opções de resposta errada seja eliminada aleatoriamente.",
+            "Custo": 40
+        }
+    ],
+    "Construcoes": [
+        {
+            "Id": "baron1",
+            "Descricao": "Mansão do barão 1",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "baron2",
+            "Descricao": "Mansão do barão 2",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "baron3",
+            "Descricao": "Mansão do barão 3",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "baron4",
+            "Descricao": "Mansão do barão 4",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "dog",
+            "Descricao": "Casa do cachorro",
+            "Madeira": 10,
+            "Pedra": 0,
+            "Ferro": 0,
+            "Areia": 0,
+            "RecompensaEmOuro": 0
+        },
+        {
+            "Id": "librarian",
+            "Descricao": "Biblioteca",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale1",
+            "Descricao": "Casa da camponesa 1",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale10",
+            "Descricao": "Casa da camponesa 10",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale2",
+            "Descricao": "Casa da camponesa 2",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale3",
+            "Descricao": "Casa da camponesa 3",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale4",
+            "Descricao": "Casa da camponesa 4",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale5",
+            "Descricao": "Casa da camponesa 5",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale6",
+            "Descricao": "Casa da camponesa 6",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale7",
+            "Descricao": "Casa da camponesa 7",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale8",
+            "Descricao": "Casa da camponesa 8",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantFemale9",
+            "Descricao": "Casa da camponesa 9",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale1",
+            "Descricao": "Casa do camponês 1",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale2",
+            "Descricao": "Casa do camponês 2",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale3",
+            "Descricao": "Casa do camponês 3",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale4",
+            "Descricao": "Casa do camponês 4",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale5",
+            "Descricao": "Casa do camponês 5",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale6",
+            "Descricao": "Casa do camponês 6",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale7",
+            "Descricao": "Casa do camponês 7",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale8",
+            "Descricao": "Casa do camponês 8",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        },
+        {
+            "Id": "peasantMale9",
+            "Descricao": "Casa do camponês 9",
+            "Madeira": 10,
+            "Pedra": 10,
+            "Ferro": 10,
+            "Areia": 10,
+            "RecompensaEmOuro": 5
+        }
+    ]
+}

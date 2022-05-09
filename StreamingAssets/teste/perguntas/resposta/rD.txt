@@ -1,0 +1,20 @@
+{
+    "validate": [
+        {
+            "Correta": false,
+            "IdOpcaoCorreta": "1"
+        },
+        {
+            "Correta": false,
+            "IdOpcaoCorreta": "2"
+        },
+        {
+            "Correta": false,
+            "IdOpcaoCorreta": "3"
+        },
+        {
+            "Correta": true,
+            "IdOpcaoCorreta": "4"
+        }
+    ]
+}

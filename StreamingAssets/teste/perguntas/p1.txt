@@ -1,0 +1,35 @@
+{
+    "Id": "1",
+    "Titulo": "TESTE Felipe 01",
+    "Descricao": "TESTE CORUJA",
+    "Disciplina": "disciplina teste1",
+    "Inimigo":1,
+    "Itens": [
+        {
+            "Id": "1/B",
+            "Nivel": "Facil",
+            "Ordem": "1",
+            "Pergunta": {
+                "Enunciado": "Pergunta 1",
+                "Opcoes": [
+                    {
+                        "Id": "1",
+                        "Descricao": "r1"
+                    },
+                    {
+                        "Id": "2",
+                        "Descricao": "resposta certa"
+                    },
+                    {
+                        "Id": "3",
+                        "Descricao": "r3"
+                    },
+                    {
+                        "Id": "4",
+                        "Descricao": "r4"
+                    }
+                ]
+            }
+        }
+    ]
+}

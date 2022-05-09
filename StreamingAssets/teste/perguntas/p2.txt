@@ -1,0 +1,87 @@
+{
+    "Id": "2",
+    "Titulo": "TESTE Felipe 02",
+    "Descricao": "TESTE CORUJA",
+    "Disciplina": "disciplina teste2",
+    "Inimigo":4,
+    "Itens": [
+        {
+            "Id": "1/A",
+            "Nivel": "Facil",
+            "Ordem": "2",
+            "Pergunta": {
+                "Enunciado": "Pergunta 1",
+                "Opcoes": [
+                    {
+                        "Id": "1",
+                        "Descricao": "resposta certa"
+                    },
+                    {
+                        "Id": "2",
+                        "Descricao": "ss"
+                    },
+                    {
+                        "Id": "3",
+                        "Descricao": "r3"
+                    },
+                    {
+                        "Id": "4",
+                        "Descricao": "r4"
+                    }
+                ]
+            }
+        },
+        {
+            "Id": "2/B",
+            "Nivel": "Facil",
+            "Ordem": "1",
+            "Pergunta": {
+                "Enunciado": "Pergunta 2",
+                "Opcoes": [
+                    {
+                        "Id": "1",
+                        "Descricao": "r1"
+                    },
+                    {
+                        "Id": "2",
+                        "Descricao": "resposta certa"
+                    },
+                    {
+                        "Id": "3",
+                        "Descricao": "r3"
+                    },
+                    {
+                        "Id": "4",
+                        "Descricao": "r4"
+                    }
+                ]
+            }
+        },
+        {
+            "Id": "3/C",
+            "Nivel": "Facil",
+            "Ordem": "2",
+            "Pergunta": {
+                "Enunciado": "Pergunta 3",
+                "Opcoes": [
+                    {
+                        "Id": "1",
+                        "Descricao": "xxxxx"
+                    },
+                    {
+                        "Id": "2",
+                        "Descricao": "ss"
+                    },
+                    {
+                        "Id": "3",
+                        "Descricao": "resposta certa"
+                    },
+                    {
+                        "Id": "4",
+                        "Descricao": "r4"
+                    }
+                ]
+            }
+        }
+    ]
+}

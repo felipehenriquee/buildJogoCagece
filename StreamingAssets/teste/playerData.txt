@@ -1,0 +1,38 @@
+{
+    "Moeda": 0,
+    "Madeira": 0,
+    "Pedra": 0,
+    "Ferro": 0,
+    "Areia": 0,
+    "Corujas": [
+        "albus",
+        "glinda",
+        "merlin"
+    ],
+    "Roupas": [
+        "blueClothes",
+        "orangeClothes",
+        "purpleClothes",
+        "redClothes"
+    ],
+    "Construcoes": [
+        "baron3",
+        "librarian",
+        "peasantFemale4",
+        "peasantFemale6",
+        "peasantFemale7",
+        "peasantMale1",
+        "peasantMale4",
+        "peasantMale6",
+        "peasantMale8",
+    ],
+    "RoupaAtual": "",
+    "CompletouTutorial": true,
+    "gatoSegue": false,
+    "Aluno": {
+        "IdUsuario": "",
+        "Usuario": {
+            "Nome": ""
+        }
+    }
+}
